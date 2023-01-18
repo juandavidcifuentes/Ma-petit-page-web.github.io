@@ -1,0 +1,15 @@
+<html>
+	<head>
+		<meta charset="uft-8" />
+		<link rel="stylesheet" href="style6.css">
+		<h1>Que signifie CSS ? Quel est son rôle ?</h1>
+	</head>
+	<body>
+		</span><br/>
+		<li>Que signifie CSS?</li>
+		<p><strong>CSS</strong> est l'acronyme de <strong>"Cascading Style Sheets"</strong> en frencais <strong>"feuille de style en cascade"</strong></p>
+		<li>Quel est son role?</li>
+		<p>Le CSS correspond à un <strong>langage informatique</strong> permettant de <strong>mettre en forme des pages web</strong>. Ce langage est donc composé des fameuses <strong>"feuilles de style en cascade"</strong> également appelées <strong>fichiers CSS</strong></p>
+		</span><br/><img src="fotocss.gif" heigh="200px" width="400px"/>
+	</body>
+</html>
